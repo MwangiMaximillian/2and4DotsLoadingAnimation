@@ -4,3 +4,4 @@ NOTE:// We need our website's visitors to see some action/progress when our webs
 This prevents them from losing patience when the website is taking longer to load, maybe due to slow internet connection.
 Always be creative with your animations for uniqueness and experience plus for it to be appealing to visitors.
 I learned this animation plus many others from youtube turorials, specifically by online tutorials. Go check them. Just be creative and don't copy paste what you learn from tutorials.
+Leave a comment.
