@@ -1,2 +1,4 @@
 Looking for a Loadingg animation for your website?
 This is a cool example of animations you could use to lure in visitors into your web when its loading.
+NOTE:// We need our website's visitors to see some action/progress when our websites is loading instead of them seeing a blank page.
+This prevents them from losing patience when the website is taking longer to load, maybe due to slow internet connection.
